@@ -15,8 +15,8 @@
 
 ### 🔗 Portfolio & Resume
 
-- 🌐 Check out all my projects here: [My Portfolio](hello)
-- 📄 View my resume: [Resume.pdf](#) <!-- Replace # with your actual resume link -->
+- 🌐 Check out all my projects here: [My Portfolio](https://portfolio-chi-two-55.vercel.app/)
+- 📄 View my resume: [Resume.pdf](https://github.com/Ajinkya-909/resume/blob/main/Ajinky%20Deshmukh_resume.pdf) <!-- Replace # with your actual resume link -->
 
 ---
 
