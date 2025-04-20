@@ -23,7 +23,7 @@
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/ajinkya deshmukh" target="_blank">
+  <a href="https://www.linkedin.com/in/ajinkya8686/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Ajinkya Deshmukh" height="30" width="40" />
   </a>
 </p>
