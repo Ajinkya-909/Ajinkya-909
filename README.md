@@ -1,59 +1,123 @@
-<h1 align="center">Hi 👋, I'm AJINKYA DESHMUKH</h1>
-<h3 align="center">A passionate Full-Stack Developer specializing in the MERN stack</h3>
+<h1 align="center">Hi 👋, I'm Ajinkya Deshmukh</h1>
+<h3 align="left">
+  <img align="right" src="https://komarev.com/ghpvc/?username=Ajinkya-909&label=Profile%20views&color=0e75b6&style=flat" alt="Ajinkya-909" />
+  Software Developer who likes building things that actually work at scale
+</h3>
 
----
+<img align="right" src="https://cdn.dribbble.com/userupload/22571673/file/original-8e02313ba9d03157810e1af7e8c44eda.gif" alt="Developer GIF" width="300" height="220" />
 
-### 🧑‍💻 About Me
+<ul>
+  <li>🔭 Currently building <b>SentinelX</b> — a smart intrusion detection system</li>
+  <li>🌱 Currently learning <b>System Design & Cloud Architecture</b></li>
+  <li>💻 I work mostly with <b>Node.js, React, and PostgreSQL</b></li>
+  <li>💬 Ask me about <b>backend systems, REST APIs, or System Design</b></li>
+  <li>📫 Reach me at <b>ajinkyadeshmukh8686@gmail.com</b></li>
+</ul>
 
-- 🎓 I'm a BTech AI student with a strong interest in full-stack development.
-- 🌱 Currently learning **C++, Python, and AI/ML**.
-- 🚀 I love building clean, scalable web applications and solving real-world problems through code.
-- 💡 I also enjoy working on side projects, hackathons, and improving my DSA skills.
-- 📫 Reach me at: **ajinkyadeshmukh8686@gmail.com**
-
----
-
-### 🔗 Portfolio & Resume
-
-- 🌐 Check out all my projects here: [My Portfolio](https://ajinkya-dev.vercel.app/)
-- 📄 View my resume: [Resume.pdf](https://github.com/Ajinkya-909/resume/blob/main/Ajinkya%20FullStack%20Resume.pdf) <!-- Replace # with your actual resume link -->
-
----
-
-### 🤝 Connect With Me
-
+<h3 align="left">&nbsp;&nbsp;Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/ajinkya8686/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Ajinkya Deshmukh" height="30" width="40" />
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ajinkya8686" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ajinkyadeshmukh8686@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.simpleicons.org/gmail/D14836" alt="Email" height="30" width="30" />
+  </a>
+</p>
+
+<br clear="right" />
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.fastify.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://redis.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajinkya-909&" alt="ajinkya-909" />
+  <img align="middle" src="https://streak-stats.demolab.com/?user=Ajinkya-909&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+  &nbsp;&nbsp;
+  <img align="middle" src="https://cdn.dribbble.com/userupload/22906166/file/original-ffcac8e074af7de5e6ac6db9873dff66.gif" alt="Streak GIF" width="400" height="300" style="border-radius: 15px;" />
 </p>
+
+<table align="center" >
+  <tr valign="middle">
+    <td align="center">
+      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Random Dev Quote" width="400" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ajinkya-909&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400" />
+      <br/><br/>
+      <img src="https://github-readme-stats.shion.dev/api?username=Ajinkya-909&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="400" />
+    </td>
+  </tr>
+</table>
