@@ -106,7 +106,7 @@
 <p align="center">
   <img align="middle" src="https://streak-stats.demolab.com/?user=Ajinkya-909&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
   &nbsp;&nbsp;
-  <img align="middle" src="https://cdn.dribbble.com/userupload/22906166/file/original-ffcac8e074af7de5e6ac6db9873dff66.gif" alt="Streak GIF" width="250" height="200" style="border-radius: 15px;" />
+  <img align="middle" src="https://cdn.dribbble.com/userupload/22906166/file/original-ffcac8e074af7de5e6ac6db9873dff66.gif" alt="Streak GIF" width="300" height="200" style="border-radius: 15px;" />
 </p>
 
 <table align="center" >
